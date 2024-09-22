@@ -1,5 +1,8 @@
 # 💫 About Me:
 Passionate about technology and eager to join the innovative world of technology, I am Arthur Dellareti, a transitioning professional with a background in Urban Architecture and newly acquired expertise in full-stack programming. With over 10 years of experience as an Architect, I bring strong design, planning, and collaborative skills, now enhanced by technical proficiency in programming and a commitment to continuous learning. 
+<img align="right" height="294" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hMmQzbWtiYnR1azZsa25oOHI1OWFva2pzM2YzMmZ6cXFkaWptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.webp"  />
+
+###
 
 
 ## 🌐 Socials:
@@ -12,9 +15,7 @@ Passionate about technology and eager to join the innovative world of technology
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dellaretiarthur&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dellaretiarthur&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" height="294" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hMmQzbWtiYnR1azZsa25oOHI1OWFva2pzM2YzMmZ6cXFkaWptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.webp"  />
 
-###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
